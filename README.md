@@ -4,7 +4,7 @@ This repository includes the experimental process related to paper "Modeling Imp
 
 **Files Description**
 
-1. Reviewed manuscript -- link will soon be added
+1. Reviewed manuscript (https://www.sciencedirect.com/science/article/pii/S092523122200090X)
 2. Fuzzy Cognitive Maps_BIAS.ipynb : Python notebook that computes the FCM models following the three scenarios described in the paper. It also includes data preprocessing. 
 3. German Credit dataset : The same version of this file can also be found in UCI Machine Learning Repository.
 4. Calculate Weight Matrix.ipynb : Python notebook that computes the weight matrix
