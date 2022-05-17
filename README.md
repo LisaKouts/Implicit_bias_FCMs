@@ -1,6 +1,6 @@
 # Implicit bias with FCMs
 
-This repository includes the experimental process related to paper "Modeling Implicit Bias with Fuzzy Cognitive Maps" by Gonzalo Nápoles, Isel Grau, Leonardo Concepción, Lisa Koutsoviti Koumeri and João Paulo Papa. The manuscript can be found here: doi.org/10.1016/j.neucom.2022.01.070.
+This repository includes the experimental process related to paper "Modeling Implicit Bias with Fuzzy Cognitive Maps" by Gonzalo Nápoles, Isel Grau, Leonardo Concepción, Lisa Koutsoviti Koumeri and João Paulo Papa. The manuscript can be found here https://doi.org/10.1016/j.neucom.2022.01.070
 
 **Files Description**
 
