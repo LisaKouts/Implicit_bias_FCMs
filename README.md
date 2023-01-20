@@ -1,0 +1,1 @@
+This python package includes the functions related to paper "Modeling Implicit Bias with Fuzzy Cognitive Maps" by Gonzalo Nápoles, Isel Grau, Leonardo Concepción, Lisa Koutsoviti Koumeri and João Paulo Papa (see here https://doi.org/10.1016/j.neucom.2022.01.070). 
