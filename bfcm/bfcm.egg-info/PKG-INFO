@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: bfcm
+Version: 0.0.2
+Summary: A library that quantifies implicit bias in tabular data with Fuzzy Cognitive Maps
+Author: L. Koutsoviti, G. Napoles
+License-File: License.txt
