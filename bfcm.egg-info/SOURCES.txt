@@ -1,9 +1,0 @@
-License.txt
-README.md
-setup.py
-bfcm/__init__.py
-bfcm/bfcm.py
-bfcm.egg-info/PKG-INFO
-bfcm.egg-info/SOURCES.txt
-bfcm.egg-info/dependency_links.txt
-bfcm.egg-info/top_level.txt
